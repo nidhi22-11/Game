@@ -14,6 +14,4 @@ Playable directly in the browser with an interactive interface.
 ---
 
 ## 💻 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nidhi22-11/Game.git
+1. Clone the repository
