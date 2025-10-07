@@ -14,6 +14,4 @@ You can play the game in your browser, with a clean interface and interactive ga
 ---
 
 ## 💻 How to Run
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-URL>
+1. Clone the repository
